@@ -22,3 +22,7 @@ img {
     padding: 15px;
     margin: 20px;
 }
+
+.important {
+    color: rgb(177, 3, 3);
+}
